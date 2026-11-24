@@ -1,0 +1,5 @@
+Line 1: Welcome to Python File Handling - Experiment No. 8.
+Line 2: This second line will also be extracted and written to the output file.
+Line 3: School of Computing, MIT Art, Design and Technology University, Pune.
+Line 4: Demonstrating line counting and file slicing operations in Python.
+Line 5: End of sample input file.
